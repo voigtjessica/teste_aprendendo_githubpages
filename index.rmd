@@ -16,4 +16,5 @@ Este é um teste para projetos futuros no GithubPages. Clique [aqui](https://boo
 ## Índice
 
 [Página 1 - Análise do problema fictício](https://voigtjessica.github.io/teste_aprendendo_githubpages/problema.html)
+<br>
 [Página 2 - Gráficos fictícios](https://voigtjessica.github.io/teste_aprendendo_githubpages/graficos.html)
