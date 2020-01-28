@@ -43,3 +43,10 @@ ggplot(df, aes(x="", y=total_pedidos, fill=atendimento)) +
 # Agradecimentos
 
 Agradeço blablablabla
+
+<br>
+<br>
+
+-----
+
+[Voltar](https://voigtjessica.github.io/teste_aprendendo_githubpages)
